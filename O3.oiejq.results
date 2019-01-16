@@ -1,0 +1,28 @@
+map
+N=1000000, linear, 1 itersTime: 463ms
+N=10000, linear, 1000 itersTime: 904ms
+N=1000000, random, 1 itersTime: 508ms
+N=10000, random, 1000 itersTime: 905ms
+N=100, linear, 100000 itersTime: 529ms
+
+unordered_map
+N=1000000, linear, 1 itersTime: 263ms
+N=10000, linear, 1000 itersTime: 393ms
+N=1000000, random, 1 itersTime: 308ms
+N=10000, random, 1000 itersTime: 393ms
+N=100, linear, 100000 itersTime: 391ms
+
+gp
+N=1000000, linear, 1 itersTime: 85ms
+N=10000, linear, 1000 itersTime: 201ms
+N=1000000, random, 1 itersTime: 130ms
+N=10000, random, 1000 itersTime: 202ms
+N=100, linear, 100000 itersTime: 201ms
+
+tr1
+N=1000000, linear, 1 itersTime: 234ms
+N=10000, linear, 1000 itersTime: 133ms
+N=1000000, random, 1 itersTime: 280ms
+N=10000, random, 1000 itersTime: 133ms
+N=100, linear, 100000 itersTime: 131ms
+

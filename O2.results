@@ -1,0 +1,28 @@
+map
+N=1000000, linear, 1 iters: 0.61
+N=10000, linear, 1000 iters: 1.19
+N=1000000, random, 1 iters: 0.63
+N=10000, random, 1000 iters: 1.19
+N=100, linear, 100000 iters: 0.17
+
+unordered_map
+N=1000000, linear, 1 iters: 0.10
+N=10000, linear, 1000 iters: 0.25
+N=1000000, random, 1 iters: 0.14
+N=10000, random, 1000 iters: 0.25
+N=100, linear, 100000 iters: 0.25
+
+gp
+N=1000000, linear, 1 iters: 0.05
+N=10000, linear, 1000 iters: 0.03
+N=1000000, random, 1 iters: 0.09
+N=10000, random, 1000 iters: 0.03
+N=100, linear, 100000 iters: 0.03
+
+tr1
+N=1000000, linear, 1 iters: 0.11
+N=10000, linear, 1000 iters: 0.23
+N=1000000, random, 1 iters: 0.14
+N=10000, random, 1000 iters: 0.23
+N=100, linear, 100000 iters: 0.23
+
